@@ -1,0 +1,41 @@
+*{
+    text-decoration: none !important;
+}
+.instagramlogo{
+    width: 350px;
+    background-image: none;
+}
+
+.border{
+    width: 450px;
+}
+
+.btn-info{
+    background-color: #4CB5F9 !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    width: 100% !important;
+}
+
+.border-top{
+width: 150px;
+height: 1px;
+}
+
+.fb-forgot{
+    text-decoration: none;
+    color: #385185;
+    font-weight: 500;
+    font-size: 18px ;
+}
+
+.downloads-div a img{ 
+    height: 40px;
+}
+
+
+.border img{
+    height: 40px;
+
+
+}
